@@ -60,6 +60,9 @@ src/
 git clone https://github.com/Iamdeveloper112/delightree-test-task.git
 cd delightree-test-task
 
+### Android build location
+src --> android_build --> app-release.apk
+
 ### Install dependencies
 
 ```bash
